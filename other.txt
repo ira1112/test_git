@@ -3,3 +3,4 @@ I want one more line here
 
 New line in the branch
 Next feature
+Cool feature & Bag
