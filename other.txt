@@ -1,2 +1,4 @@
 some content
 I want one more line here
+
+INTRODUCE A CONFLICT
