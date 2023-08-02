@@ -1,4 +1,7 @@
 some content
 I want one more line here
 
+New line in the branch
 INTRODUCE A CONFLICT
+Next feature
+Cool feature & Bag
